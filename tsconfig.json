@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/IsaacScript/isaacscript/main/packages/isaacscript-cli/schemas/tsconfig-strict-schema.json",
+
+  "compilerOptions": {
+    "paths": {
+      "bar": ["./packages/bar/src/index.ts"],
+    },
+  },
+}
